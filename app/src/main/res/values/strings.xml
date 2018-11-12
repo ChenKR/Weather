@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_about">About</string>
+    <string name="about_label">About...</string>
+    <string name="about_title">About Weather Demo</string>
+    <string name="about_msg">Weather is a simple Weather demo android App. You can see today, tomorrow and week weather. You can also search weather by place.</string>
+    <string name="ok_label">OK</string>
+</resources>
