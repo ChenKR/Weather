@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">匯率轉換機!</string>
-    <string name="app_name">ExchangeTransform</string>
-    <string name="cvt">轉換</string>
-</resources>
